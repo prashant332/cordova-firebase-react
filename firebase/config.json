@@ -1,0 +1,6 @@
+{
+  "auth" : {
+    "email": "<firebase user email>",
+    "password": "<firebase user password>"
+  }
+}
